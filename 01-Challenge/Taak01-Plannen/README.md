@@ -1,4 +1,4 @@
-# Challenge - Portfolio
+# Challenge - BNB-site
 
 ## :clock1: 01 - Plannen
 

@@ -1,4 +1,4 @@
-# Challenge - Portfolio
+# Challenge - BNB-site
 
 ## :art: 02 - Ontwerpen
 
@@ -24,7 +24,7 @@ Je werkt de opdracht uit in de vorm van een boomstructuur en wireframe, zodat je
 
 Je wordt beoordeeld op:  
 
-1. Of de wireframe / boomstructuur volledig zijn. Dit wil zeggen dat alle elementen die je bouwt in je portfolio terug te vinden zijn de wireframe en/of boomstructuur.
+1. Of de wireframe / boomstructuur volledig zijn. Dit wil zeggen dat alle elementen die je bouwt in je BNB-site terug te vinden zijn de wireframe en/of boomstructuur.
 2. Of de documenten netjes zijn geordend
 3. Of de inhoud begrijpelijk is zonder extra mondelinge toelichting
 
