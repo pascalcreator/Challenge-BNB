@@ -1,10 +1,10 @@
-# Challenge - Portfolio
+# Challenge - BNB-site
 
 ## Wat is een challenge?
 
 Het is een hele stap om van leren naar toepassen te gaan, zoals je al ervaren hebt in de vorige challenge. Waar het in de modules gaat om het aanleren van kennis en vaardigheden, gaat het er in een challenge om deze toe te passen in een prakijksituatie. Een challenge is niet zomaar een opdracht om te doen, maar een kans om al je creativiteit en kunde te showen.
 
- Ook deze keer doen we een individuele challenge en je zal voor een groot deel worden begeleid in de te volgen stappen. Wat nieuw is in deze challenge is dat we met userstories gaan werken. Daarover later meer. 
+ Ook deze keer doen we een individuele challenge en je zult voor een groot deel worden begeleid in de te volgen stappen. Wat nieuw is in deze challenge is dat we met userstories gaan werken. Daarover later meer. 
 
 ## Modules
 
@@ -24,7 +24,11 @@ Met je kennis van HTML/CSS, Javascript, MySQL en PHP ben je in staat om een BNB-
 
 Ook deze keer werk je op je persoonlijke Github-account. Dat is de werkwijze die de meeste professionals hanteren. Ook kan een geïnteresseerde werkgever of stagebegeleider aan jouw code op Github zien wat je allemaal kunt. 
 
-Als deze challenge hebt afgerond, neem je die op in je portfolio.  
+Als deze challenge hebt afgerond, neem je die op in je portfolio. 
+
+## Userstory's 
+In de vorige challenge hebben we je precies verteld wat je moest programmeren. In deze challenge gaat het anders. Je krijgt een aantal userstory's van een klant. Een user story is een korte beschrijving (story) van wat een gebruiker (user) wil. Een userstory bestaat uit enkele zinnen gewone spreektaal. Userstory's worden gebruikt binnen softwaredevelopment als een manier om de requirements te beschrijven. Hierin zegt men 'wie', 'wat', 'waarom' wil. Userstory's zijn niet al te specifiek en moeten passen op een post-it. Hiermee zegt de gebruiker welke functionaliteit hij of zij wenst in software. 
+Het is aan jou om de userstory's te vertalen in functionaliteit en ontwerp.
 
 ## Werkwijze Challenge
 
@@ -32,9 +36,9 @@ Als deze challenge hebt afgerond, neem je die op in je portfolio.
 
 ### De 7 stappen van Software Development
 
-Zoals in elke challenge, werk je volgens de 7 stappen. Je begint bovenaan met het onderdeel Plannen en gaat dan met de klok mee tot je de challenge hebt afgerond. 
+Zoals in elke challenge, werk je volgens de 7 stappen. Je begint bovenaan met het onderdeel plannen en gaat dan met de klok mee tot je de challenge hebt afgerond. 
 
-Deze stappen zet je nu voor de tweede keer. Daarom is het belangrijk dat je in deze challenge steeds terugkijkt naar de vorige. Als je dus bezig bent met het `Plannen`, kijk je terug naar de stap plannen in de eerste challenge. Wat is er dit keer anders? Is er meer of minder werk? **Daarop baseer je de planning van deze challenge**. Hetzelfde geldt voor de andere stappen. 
+Deze stappen zet je nu voor de tweede keer. Daarom is het belangrijk dat je in deze challenge steeds terugkijkt naar de vorige. Dus als je  bezig bent met het `Plannen`, kijk je terug naar de stap plannen in de eerste challenge. Wat is er dit keer anders? Is er meer of minder werk? **Daarop baseer je de planning van deze challenge**. Hetzelfde geldt voor de andere stappen. 
 
 Aan het eind van de challenge evalueer je of je planning realistisch was. Dit doe je ook voor de andere zes stappen.
 
@@ -51,7 +55,7 @@ Aan het eind van de challenge evalueer je of je planning realistisch was. Dit do
    - Een wireframe uitgewerkt in :art:[student-wireframe.drawio.png](01-Challenge/Taak02-Ontwerpen/student-wireframe.drawio.png)
 3. **:construction: Stap 3 - Realiseren**
    - zie :scroll:[README](01-Challenge/Taak03-Realiseren/README.md)
-   - Een Portfolio website uitgewerkt in de `portfolio` map en live gezet via Github Pages. Zie de [`Technische Eisen`](01-Challenge/Taak03-Realiseren/technische-eisen.md).
+   - Een BNB-site website uitgewerkt in de `BNB-site`-map en live gezet via Github Pages. Zie de [`Technische Eisen`](01-Challenge/Taak03-Realiseren/technische-eisen.md).
 4. **:clipboard: Stap 4 - Testen**
    - zie :scroll:[README](01-Challenge/Taak04-Testen/README.md)
    - Een lijst met issues uitgewerkt in :pencil2:[`student-issues.md`](01-Challenge/Taak04-Testen/student-issues.md)
