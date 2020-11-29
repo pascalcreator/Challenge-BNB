@@ -2,35 +2,29 @@
 
 ## Wat is een challenge?
 
-Het is een hele stap om van leren naar toepassen te gaan. Waar het in de modules gaat om het aanleren van kennis en vaardigheden, gaat het er in een challenge om deze toe te passen in een prakijksituatie. Om een challenge goed af te ronden moet je dus de stof uit modules beheersen. Daarnaast is een challenge een manier om te laten zien wat je allemaal al kan!
+Het is een hele stap om van leren naar toepassen te gaan, zoals je al ervaren hebt in de vorige challenge. Waar het in de modules gaat om het aanleren van kennis en vaardigheden, gaat het er in een challenge om deze toe te passen in een prakijksituatie. Een challenge is niet zomaar een opdracht om te doen, maar een kans om al je creativiteit en kunde te showen.
 
-In volgende challenges zal er steeds meer nadruk liggen op samenwerken en zal je steeds meer vrij gelaten worden in de manier waarop je invulling geeft aan de opdracht. Deze eerste keer doen we echter een individuele challenge en je zal voor een groot deel worden begeleidt in de te volgen stappen.
-
-## Waarom doen we een Challenge?
-
-Tot nu toe heb je veel kleine oefeningen gedaan in de vorm van de taken die bij een module horen. Aan het eind van elke module was de eindopdracht bedoeld om je alle stof van een module nog een keer te oefenen in een grotere opdracht. In een challenge is het de bedoeling dat je een nog groter probleem oplost met kennis en kunde zoals je die in een aantal modules hebt geleerd. 
-
-Een challenge is bedoeld om je uit te dagen, om je te laten omgaan met het zelf oplossen van problemen door op zoek te gaan naar goede bronnen en vooral ook om je te laten wennen hoe je straks in het werkveld aan de slag zal gaan. Een challenge is niet zomaar een opdracht om af te vinken maar een kans om te shinen en al je creativiteit en kunde in te stoppen.
+ Ook deze keer doen we een individuele challenge en je zal voor een groot deel worden begeleid in de te volgen stappen. Wat nieuw is in deze challenge is dat we met userstories gaan werken. Daarover later meer. 
 
 ## Modules
 
-Om deze challenge succesvol af te kunnen ronden, is het belangrijk dat je de stof uit onderstaande modules beheerst.
+Om deze challenge succesvol af te kunnen ronden, heb je de kennis en de vaardigheden nodig uit deze challenges:
 
 :star: Devops  
-:star: Frontend-Basic  
-:star: Frontend-Essentials  
-:star: Denken Als een Programmeur 1  
-:star: Denken Als een Programmeur 2  
+:star: Denken Als een Programmeur 1 & 2  
+:star: Frontend Basic, Essentials & Essentials 2
+:star: MySQL Basic
+:star: PHP Basic
 
-## Inleiding challenge Portfolio
+## Inleiding challenge BNB
 
-In de module Frontend-Basic heb je als eindopdracht een begin gemaakt aan een online portfolio. Nu je meer kennis hebt van HTML/CSS en Javascript kun je deze verder uitwerken tot een echt portfolio.
+Met je kennis van HTML/CSS, Javascript, MySQL en PHP ben je in staat om een BNB-site te programmeren. 
 
-> Wat is een portfolio en waar wordt dit voor gebruikt? Zie [Wikipedia.nl - Portfolio](https://nl.wikipedia.org/wiki/Portfolio).
+> Wat zijn een BNB-sites? De bekenste is Airbnb Zie [Wikipedia.nl - Airbnb](https://nl.wikipedia.org/wiki/Airbnb), maar surf maar eens op bed and breakfast en je vindt er talloze.
 
-Als Software Ontwikkelaar zal een groot deel van je werk te zien op je persoonlijke Github account. Een geïnteresseerde werkgever of stagebegeleider kan aan jou code zien wat je allemaal kan. Toch is het ook fijn als zo iemand jou een beetje beter leert kennen, op persoonlijk én professioneel vlak. In deze Challenge ga je een eigen portfolio ontwerpen en deze live zetten via Github Pages. Zo heb je een plek online die je kan delen met geintereseerden en straks ook met stagebedrijven en/of potentiele werkgevers!
+Ook deze keer werk je op je persoonlijke Github-account. Dat is de werkwijze die de meeste professionals hanteren. Ook kan een geïnteresseerde werkgever of stagebegeleider aan jouw code op Github zien wat je allemaal kunt. 
 
-Gedurende de opleiding zal je je portfolio verder updaten met nieuwe projecten en zal je nieuwe technieken die je leert kunnen gebruiken om je portfolio bij te werken. 
+Als deze challenge hebt afgerond, neem je die op in je portfolio.  
 
 ## Werkwijze Challenge
 
@@ -38,11 +32,11 @@ Gedurende de opleiding zal je je portfolio verder updaten met nieuwe projecten e
 
 ### De 7 stappen van Software Development
 
-In bovenstaand plaatje is te zien welke stappen je tijdens de Challenge gaat doorlopen. Je begint bovenaan met het onderdeel Plannen en gaat dan met de klok mee tot je de Challenge hebt afgerond. 
+Zoals in elke challenge, werk je volgens de 7 stappen. Je begint bovenaan met het onderdeel Plannen en gaat dan met de klok mee tot je de challenge hebt afgerond. 
 
-Omdat je veel van deze stappen voor de eerste keer zal uitvoeren is het logisch dat je niet in één keer een perfecte uitwerking per stap oplevert. Het doel is dat je steeds beter wordt in de verschillende stappen. Als je dus tijdens de `Realisatie` stap merkt dat je iets vergeten bent op te nemen in je planning dan **voeg je dit alsnog toe**. Hetzelfde geldt voor de andere stappen. Uiteindelijk leer je zo steeds beter wat er allemaal komt kijken bij het uitwerken van een echt project zoals je dat straks in het beroepsveld ook zult gaan doen.
+Deze stappen zet je nu voor de tweede keer. Daarom is het belangrijk dat je in deze challenge steeds terugkijkt naar de vorige. Als je dus bezig bent met het `Plannen`, kijk je terug naar de stap plannen in de eerste challenge. Wat is er dit keer anders? Is er meer of minder werk? **Daarop baseer je de planning van deze challenge**. Hetzelfde geldt voor de andere stappen. 
 
-> :warning: **LETOP**: Als je iets updatet maak dan een nieuwe commit aan. Zo kun je later zien hoe een bepaalde document is gegroeid en heeft het docententeam inzicht in je werkwijze.
+Aan het eind van de challenge evalueer je of je planning realistisch was. Dit doe je ook voor de andere zes stappen.
 
 > :rocket: **TIP**: Je zult in deze Challenge documenten opleveren in het [Markdown](https://guides.github.com/features/mastering-markdown/) formaat. Dit is hetzelfde formaat als waar de uitleg bij de modules wordt geschreven. Check de link om te lezen hoe Markdown werkt en hoe je als je dat wilt de documenten anders kan vormgeven.
 
