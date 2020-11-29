@@ -18,19 +18,13 @@
 3. Elke pagina bevat een correcte titel voor de desbetreffende pagina in het `TITLE` element
 4. Het menu is zichtbaar en bruikbaar op elke pagina 
 5. Elke pagina is logisch verdeeld en er wordt gebruikt gemaakt van semantische elementen. (`NAV`, `HEADER`, `SIDEBAR`, `MAIN`, `ARTICLE` en/of `FOOTER`)
-6. CSS- en Javascriptcode staat in externe bestanden in een eigen submap (`/css` en `/js`) van de website en wordt gelinkt vanuit de html-bestanden. <!--- moet dit ook voor PHP? --->
+6. CSS- en Javascriptcode staat in externe bestanden in een eigen submap (`/css` en `/js`) van de website en wordt gelinkt vanuit de html-bestanden. <!-- moet dit ook voor PHP? -->
 
-7. De code voorzie je van duidelijk commentaar @@@
+7. De code voorzie je van duidelijk commentaar <!-- ik denk dat dit nog SMART gemaakt moet worden -->
 
+Gebruik zoveel mogelijk HTML/CSS technieken zoals je die heb leren kennen in Frontend-Basic en Frontend-Essentials. Dit betekent dat je juiste HTML-elementen (tags) gebruikt voor onderdelen van je BNB-site. Dus als je een lijst hebt met punten maak daar dan een ordered of unordered list van. Wil je informatie tonen die het beste in een tabel is te vatten, maak daar dan een tabel van. Het is aan jou om te beslissen welke elementen het beste kunnen worden toegepast in een bepaalde situatie.
 
-1. Zorg ervoor dat als een bezoeker op je pagina komt hij een Promt te zien krijgt die vraagt om de naam van de bezoeker. 
-2. Toon de ingevulde naam van de bezoeker op de pagina in een "Welkom ....!" gedeelte
-3.  Vraag daarna de leeftijd van de bezoeker. Als de leeftijd boven de 18 is verander dan de achtergrond kleur van het Welkom element in groen, zoniet verander deze dan in rood.
-4.  Sla beide gevraagde gegevens op in een object genaamd `bezoeker` met 2 properties: `naam` en `leeftijd`.
-
-Gebruik zoveel mogelijk HTML/CSS technieken zoals je die heb leren kennen in Frontend-Basic en Frontend-Essentials. Dit betekent dat je juiste HTML elementen (tags) gebruikt voor onderdelen van je BNB-site. Dus als je een lijst hebt met punten maak daar dan een ordered of unordered list van. Wil je informatie tonen die het beste in een tabel is te vatten, maak daar dan een tabel van. Het is aan jou om te beslissen welke elementen het beste kunnen worden toegepast in een bepaalde situatie.
-
-Onderstaande lijst is een beknopt overzicht van de HTML/CSS en JS technieken die behandeld zijn in de Frontend-Basic en Essentials modules. Kijk voor uitleg bij de desbetreffende modules. Uiteraard is het toegestaan niet behandelde technieken te gebruiken.
+Onderstaande lijst is een beknopt overzicht van de HTML/CSS- en JS-technieken die behandeld zijn in de Frontend-Basic en Essentials modules I & II. Kijk voor uitleg bij de desbetreffende modules. Uiteraard is het toegestaan niet behandelde technieken te gebruiken.
 
 #### HTML
 ```html
@@ -76,7 +70,9 @@ Onderstaande lijst is een beknopt overzicht van de HTML/CSS en JS technieken die
     if / else
     document.queryselector()
 ```
+<!-- Hier PHP, MySQl en Fr.End.Es II nog bij vermelden -->
 
+<!-- Onderstaand onderdeel naar het eind van de challenge, waar studenten de challenge aan hun portfolio toevoegen
 
 ## Live zetten mbv Github Pages
 
@@ -86,4 +82,4 @@ Onderstaande video linkt naar een korte introductie (1:05m) over Github Pages.
 
 Github Pages geeft je de mogelijkheid om één repository in je account live te zetten. Zie [deze link](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) voor een uitleg over hoe je de Challenge repository live zet. Je portfolio zal te zien zijn op `github_username.github.io`.
 >
-> :warning: LETOP: je moet aangeven dat je de `portfolio` submap van deze repository als root wilt gebruiken. 
+> :warning: LETOP: je moet aangeven dat je de `portfolio` submap van deze repository als root wilt gebruiken. -->
