@@ -1,7 +1,7 @@
 # challenge - Portfolio
 ## :thought_balloon: 07 - Reflecteren
 
-Nu je bijna aan het einde van de challenge bent aangekomen, wordt het tijd om te kijken wat er allemaal goed ging en wat je eventueel bij een volgende challenge anders zou doen. 
+Nu je bijna aan het einde van de challenge bent gekomen, wordt het tijd om te kijken wat er allemaal goed ging en wat je bij een volgende challenge anders zou kunnen doen. 
 
 ### :hammer: Taak 07 - Reflecteren
 
@@ -11,4 +11,4 @@ Nu je bijna aan het einde van de challenge bent aangekomen, wordt het tijd om te
 
 Je wordt beoordeeld op:  
 
-1. Of je duidelijk hebt kunnen verwoorden hoe je inzichten over je eigen werkprocess zijn veranderd tijdens de challenge.
+1. Of je duidelijk kunt maken hoe je inzichten over je eigen werkprocess zijn veranderd tijdens de challenge.

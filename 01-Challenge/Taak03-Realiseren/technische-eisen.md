@@ -1,15 +1,16 @@
 # Challenge Portfolio: Technische Eisen
 
-## Userstory's:
+## Userstory's van de klant:
 
-- Ik wil een website waarop mijn vier huizen staan, zodat mijn klanten mijn huizen op internet overzichtelijke informatie kunnen vinden
+- Ik wil een website waarop de vier kamers van mijn huis staan, zodat mijn klanten mijn huizen op internet overzichtelijke informatie kunnen vinden
 - Ik wil dat er een duidelijk menu is, zodat klanten goed de weg kunnen vinden op mijn site en altijd weten waar ze zich bevinden
-- Ik wil een indexpagina waarop foto’s van mijn vier huizen staan, zodat klanten een snelle keuze kunnen maken en door op een foto te klikken op een pagina terechtkomen waarop ze meer ze informatie kunnen vinden over de verschillende huisjes
-- Ik wil voor elk huis een pagina met vier foto’s van het interieur en het exterieur van het huisje, een beschrijving van het huisje en een lijst met gegevens, zodat klant op detailniveau geïnformeerd wordt
+- Ik wil een indexpagina waarop foto’s van mijn vier kames staan, zodat klanten een snelle keuze kunnen maken en door op een foto te klikken op een pagina terechtkomen waarop ze meer ze informatie kunnen vinden over de verschillende kamers
+- Ik wil voor elke kamer een pagina met vier foto’s van het interieur, een beschrijving van de kaart en een lijst met gegevens, zodat klant op detailniveau geïnformeerd wordt
 - Ik wil een contactpagina zodat klanten weten hoe ze contact met me kunnen opnemen
 
    
 ## Technische eisen
+<!-- ik begrijp dat je technische eisen ook via userstory's kunt communiceren, zullen we dat doen? -->
 
 ### Elke pagina bevat:
 

@@ -10,11 +10,11 @@ Het is een hele stap om van leren naar toepassen te gaan, zoals je al ervaren he
 
 Om deze challenge succesvol af te kunnen ronden, heb je de kennis en de vaardigheden nodig uit deze challenges:
 
-:star: Devops  
-:star: Denken Als een Programmeur 1 & 2  
-:star: Frontend Basic, Essentials & Essentials 2
-:star: MySQL Basic
-:star: PHP Basic
+* Devops  
+* Denken Als een Programmeur 1 & 2
+* Frontend Basic, Essentials & Essentials 2
+* MySQL Basic
+* PHP Basic
 
 ## Inleiding challenge BNB
 
