@@ -8,7 +8,7 @@ Het is een hele stap om van leren naar toepassen te gaan, zoals je al ervaren he
 
 ## Modules
 
-Om deze challenge succesvol af te kunnen ronden, heb je de kennis en de vaardigheden nodig uit deze challenges:
+Om deze challenge succesvol te kunnen afronden, heb je de kennis en de vaardigheden nodig uit deze challenges:
 
 * Devops  
 * Denken Als een Programmeur 1 & 2
