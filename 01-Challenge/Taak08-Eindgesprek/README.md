@@ -1,11 +1,12 @@
 # challenge - BNB-site
+
 ## :speech_balloon: 08 - Eindgesprek
 
 Je hebt nu je BNB-site afgerond en live gezet via Github Pages.
 
 ## :octopus: Portfolio
+
 Neem je BNB-site op in je portfolio
-<!-- 1. Kunnen studenten dat? 2. Is het niet beter om ze de site in hun portfolio te laten presenteren. Dan borgen we dat ze dat bijhouden --> 
 
 ### :hammer: Taak 08 - Eindgesprek
 
@@ -19,6 +20,7 @@ Neem je BNB-site op in je portfolio
 Je wordt beoordeeld op:  
 
 1. Hoe je bepaalde ontwerpkeuzes onderbouwt
-2. Hoe je je BNB-site presenteert
-3. Of je genoeg geleerd hebt van de challenge
-4. Hoe je bewijst dat site geen code van anderen bevat
+2. Hoe je ontwerpkeuzes hebt geimplementeerd
+3. Hoe je je BNB-site presenteert
+4. Of je genoeg geleerd hebt van de challenge
+5. Hoe je bewijst dat site geen code van anderen bevat

@@ -1,10 +1,12 @@
 # Challenge Portfolio: Feedback
 
-##  Van wie hebt je feedback gevraagd?  
-- ...
-
-## Feedback.
+## Van wie hebt je feedback gevraagd?
 
 - ...
+
+## Feedback
+
 - ...
 - ...
+- ...
+  
