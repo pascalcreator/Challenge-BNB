@@ -11,6 +11,8 @@ Tijdens deze stap ga je het echte werk doen. Zie het [Technische Eisen](technisc
 In theorie heb je een kloppende planning en perfecte ontwerpdocumenten gemaakt, maar je hebt dit nog niet vaak gedaan. Je zal dus waarschijnlijk dingen vergeten zijn op te nemen in de planning. Of terwijl je iets aan het bouwen bent bedenken dat je een bepaald element liever op een andere pagina laat terugkomen dan dat je in de ontwerpdocumenten hebt gezet. Dit geeft niet. Je doet dit om te leren.
 Werkt het niet meteen en besluit je om een bepaald onderdeel anders op te lossen? Noteer dit dan in de [Student-reflectie](../Taak07-Reflecteren/student-reflectie.md)-document bij **Waar ben je van je planning afgeweken?**
 
+> ### Maak gebruik van de starterscode die je in deze map ziet staan
+
 ### :hammer: Taak 03 - Realiseren
 
 1. **Ga aan de slag!** Hou hierbij de volgende punten in je achterhoofd:

@@ -9,6 +9,8 @@
 - Ik wil de verschillende facetten van de huizen overzichtelijk in kunnen zien.
 - Ik wil een makkelijke filter waarmee tussen de huizen kan filteren.
 - Ik wil de filters kunnen resetten
+- Ik wil een website hebben met een modern uiterlijk.
+- Ik wil de volgende kleuren terugzien op de site: [Coolors](https://coolors.co/264653-2a9d8f-e9c46a-f4a261-e76f51), waarbij #fff ook is toegestaan.
   
 ## Overige eisen
 
