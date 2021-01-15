@@ -57,32 +57,12 @@ CREATE TABLE `homes` (
 --
 
 INSERT INTO `homes` (`id`, `name`, `price_p_p_p_n`, `price_bed_sheets`, `description`, `longitude`, `latitude`, `provincie`, `max_capacity`, `bath_present`, `pool_present`, `bbq_present`, `wifi_present`, `fireplace_present`, `dishwasher_present`, `bike_rental`, `price_bike_rental`, `image`) VALUES
-(1, 'IJmuiden Cottage', '55.00', '10.00', 'Welkom bij dit huisje! In 2018 is dit huisje gerenoveerd. De woning bestaat uit twee lagen met op de begane grond een ingerichte keuken met inbouwapparatuur, een grote woonruimte en een toilet. De bovenverdieping is bestaat uit twee slaapkamers met twee tweepersoonsbedden. Daarnaast is er ook een badkamer met ligbad en toilet. De woning is voorzien van CV, WIFI, en digitale tv.', '4.61001', '52.44902', 'Noord-Holland', 4, 0, 0, 1, 0, 0, 0, 0, '0.00', ''),
-(2, 'Assen Bungalow', '150.00', '0.00', '  Het huisje is omringd door bomen, bloemen en planten. Het is een prachtige plek om wakker te worden met het geluid van vogels. Mischien ziet u vanaf de tuinbank egeltjes en eekhoorns. Het huisje heeft een compleet ingerichte keuken met o.a. een 5 pits gaskooksstel, grote oven en uitgebreide benodigdheden. Er is een aparte eettafel aanwezig', '6.64928', '52.99864', 'Drenthe', 6, 0, 1, 1, 0, 0, 0, 0, '0.00', ''),
-(3, 'Espelo Entree', '300.00', '0.00', ' Het huisje ligt op het platteland tussen Deventer (20 minuten) en Almelo (30 minuten), in het coulissenlandschap van de achterhoek. Je kunt hier perfect wandelen of fietsen. Met het huisje als thuisbasis kun je de achterhoek en vlakbij het Nationaal Park De Sallandse Heuvelrug kun je hier een geweldige tijde beleven. De verhuurders genieten elke dag weer van de rust en de ruimte.', '6.36800', '52.30340', 'Overijssel', 8, 1, 1, 1, 0, 0, 0, 1, '15.00', ''),
-(4, 'Weustenrade Woning', '75.00', '0.00', '    Bent u op zoek naar een verblijf met veel mooie natuur in de buurt waar u echt tot rust komt? Dan is het dit natuurhuisje misschien de plek die u zocht. Het huisje staat op een vakantiepark, waar er een relaxte en gemoedelijke sfeer hangt. Het huisje staat tegen een bos aan, beschikt over een mooie afgesloten tuin en u bent al met minder dan 50 meter lopen in de prachtige natuur.', '5.90979', '50.89720', 'Limburg', 4, 1, 0, 1, 0, 1, 0, 0, '0.00', '');
+(1, 'IJmuiden Cottage', '55.00', '10.00', 'Welkom bij dit huisje! In 2018 is dit huisje gerenoveerd. De woning bestaat uit twee lagen met op de begane grond een ingerichte keuken met inbouwapparatuur, een grote woonruimte en een toilet. De bovenverdieping is bestaat uit twee slaapkamers met twee tweepersoonsbedden. Daarnaast is er ook een badkamer met ligbad en toilet. De woning is voorzien van CV, WIFI, en digitale tv.', '4.61001', '52.44902', 'Noord-Holland', 4, 0, 0, 1, 0, 0, 0, 0, '0.00', 'Ijmuiden.jpg'),
+(2, 'Assen Bungalow', '150.00', '0.00', '  Het huisje is omringd door bomen, bloemen en planten. Het is een prachtige plek om wakker te worden met het geluid van vogels. Mischien ziet u vanaf de tuinbank egeltjes en eekhoorns. Het huisje heeft een compleet ingerichte keuken met o.a. een 5 pits gaskooksstel, grote oven en uitgebreide benodigdheden. Er is een aparte eettafel aanwezig', '6.64928', '52.99864', 'Drenthe', 6, 0, 1, 1, 0, 0, 0, 0, '0.00', 'Assen.jpg'),
+(3, 'Espelo Entree', '300.00', '0.00', ' Het huisje ligt op het platteland tussen Deventer (20 minuten) en Almelo (30 minuten), in het coulissenlandschap van de achterhoek. Je kunt hier perfect wandelen of fietsen. Met het huisje als thuisbasis kun je de achterhoek en vlakbij het Nationaal Park De Sallandse Heuvelrug kun je hier een geweldige tijde beleven. De verhuurders genieten elke dag weer van de rust en de ruimte.', '6.36800', '52.30340', 'Overijssel', 8, 1, 1, 1, 0, 0, 0, 1, '15.00', 'Espelo.jpg'),
+(4, 'Weustenrade Woning', '75.00', '0.00', '    Bent u op zoek naar een verblijf met veel mooie natuur in de buurt waar u echt tot rust komt? Dan is het dit natuurhuisje misschien de plek die u zocht. Het huisje staat op een vakantiepark, waar er een relaxte en gemoedelijke sfeer hangt. Het huisje staat tegen een bos aan, beschikt over een mooie afgesloten tuin en u bent al met minder dan 50 meter lopen in de prachtige natuur.', '5.90979', '50.89720', 'Limburg', 4, 1, 0, 1, 0, 1, 0, 0, '0.00', 'Weusterade.jpg');
 
 -- --------------------------------------------------------
-
---
--- Tabelstructuur voor tabel `users`
---
-
-DROP TABLE IF EXISTS `users`;
-CREATE TABLE `users` (
-  `id` int(11) NOT NULL,
-  `name` varchar(60) NOT NULL,
-  `email` varchar(60) NOT NULL,
-  `password` varchar(60) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
-
---
--- Gegevens worden geëxporteerd voor tabel `users`
---
-
-INSERT INTO `users` (`id`, `name`, `email`, `password`) VALUES
-(1, 'admin', 'admin@admin.com', 'admin'),
-(2, 'user', 'user@user.com', 'user');
 
 --
 -- Indexen voor geëxporteerde tabellen
@@ -94,11 +74,6 @@ INSERT INTO `users` (`id`, `name`, `email`, `password`) VALUES
 ALTER TABLE `homes`
   ADD PRIMARY KEY (`id`);
 
---
--- Indexen voor tabel `users`
---
-ALTER TABLE `users`
-  ADD PRIMARY KEY (`id`);
 
 --
 -- AUTO_INCREMENT voor geëxporteerde tabellen
@@ -109,13 +84,6 @@ ALTER TABLE `users`
 --
 ALTER TABLE `homes`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=10;
-
---
--- AUTO_INCREMENT voor een tabel `users`
---
-ALTER TABLE `users`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
-COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;

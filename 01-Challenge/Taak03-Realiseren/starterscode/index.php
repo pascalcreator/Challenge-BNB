@@ -1,38 +1,34 @@
 <?php
+// Je hebt een database nodig om dit bestand te gebruiken....
 
-require 'database.php';
+if (!isset($db_conn)) { //deze if-statement checked of er een database-object aanwezig is. Kun je laten staan.
+    return;
+}
 
 $database_gegevens = null;
 $poolIsChecked = false;
 $bathIsChecked = false;
 
-$sql = ""; //Selecteer alle huisjes uit de Database
-
-if (is_object($db_conn->query($sql))) { //deze if-statement controleert of de query correct geschreven is en dus data ophaalt uit de DB
-    $database_gegevens = $db_conn->query($sql)->fetchAll(PDO::FETCH_ASSOC); //deze code laten staan
-}
+$sql = ""; //Selecteer alle huisjes uit de database
 
 if (isset($_GET['filter_submit'])) {
 
-    if ($_GET['faciliteiten'] == "ligbad") { // Als ligbad is geselecteerd dan filter dan de zoekresultaten
+    if ($_GET['faciliteiten'] == "ligbad") { // Als ligbad is geselecteerd filter dan de zoekresultaten
         $bathIsChecked = true;
 
         $sql = ""; // query die zoekt of er een BAD aanwezig is.
-
-        if (is_object($db_conn->query($sql))) { //deze if-statement controleert of de query correct geschreven is en dus data ophaalt uit de DB
-            $database_gegevens = $db_conn->query($sql)->fetchAll(PDO::FETCH_ASSOC); //deze code laten staan
-        }
     }
 
     if ($_GET['faciliteiten'] == "zwembad") {
         $poolIsChecked = true;
 
         $sql = ""; // query die zoekt of er een ZWEMBAD aanwezig is.
-
-        if (is_object($db_conn->query($sql))) { //deze if-statement controleert of de query correct geschreven is en dus data ophaalt uit de DB//deze if-statement controleert of de query correct geschreven is en dus data ophaalt uit de DB
-            $database_gegevens = $db_conn->query($sql)->fetchAll(PDO::FETCH_ASSOC); //deze code laten staan
-        }
     }
+}
+
+
+if (is_object($db_conn->query($sql))) { //deze if-statement controleert of een sql-query correct geschreven is en dus data ophaalt uit de DB
+    $database_gegevens = $db_conn->query($sql)->fetchAll(PDO::FETCH_ASSOC); //deze code laten staan
 }
 
 
