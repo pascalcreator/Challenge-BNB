@@ -4,7 +4,7 @@
 
 ### Ontwerpen
 
-Voor je begint aan een project, breng je altijd in kaart wat je precies gaat maken. Zeker voor  complexere projecten is het handig als je kan terugkijken naar bepaalde ontwerpkeuzes die jij, jouw team of een opdrachtgever hebben gemaakt.
+Voor je begint aan een project, breng je altijd in kaart wat je precies gaat maken. Zeker voor complexere projecten is het handig als je kan terugkijken naar bepaalde ontwerpkeuzes die jij, jouw team of een opdrachtgever hebben gemaakt.
 
 Je werkt de opdracht uit in de vorm van een boomstructuur en wireframe, zodat je deze kunt bespreken met eventuele teamgenoten of opdrachtgevers.
 
