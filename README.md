@@ -20,7 +20,7 @@ Om deze challenge succesvol te kunnen afronden, heb je de kennis en de vaardighe
 
 Met je kennis van HTML/CSS, Javascript, MySQL en PHP ben je in staat om een BNB-site te programmeren.
 
-> Wat zijn een BNB-sites? De bekenste is Airbnb Zie [Wikipedia.nl - Airbnb](https://nl.wikipedia.org/wiki/Airbnb), maar surf maar eens op bed and breakfast en je vindt er talloze.
+> Wat zijn BNB-sites? BNB staat (zoals je misschien weet) voor bed & breakfast. De bekenste BNB-site is Airbnb, zie [Wikipedia.nl - Airbnb](https://nl.wikipedia.org/wiki/Airbnb), maar surf maar eens op bed and breakfast en je vindt er talloze.
 
 Ook deze keer werk je op je persoonlijke Github-account. Dat is de werkwijze die de meeste professionals hanteren. Ook kan een geïnteresseerde werkgever of stagebegeleider aan jouw code op Github zien wat je allemaal kunt.
 
@@ -28,7 +28,7 @@ Als deze challenge hebt afgerond, neem je die op in je portfolio.
 
 ## Userstory's
 
-In de vorige challenge hebben we je precies verteld wat je moest programmeren. In deze challenge gaat het anders. Je krijgt een aantal userstory's van een klant. Een user story is een korte beschrijving (story) van wat een gebruiker (user) wil. Een userstory bestaat uit enkele zinnen gewone spreektaal. Userstory's worden gebruikt binnen softwaredevelopment als een manier om de requirements te beschrijven. Hierin zegt men 'wie', 'wat', 'waarom' wil. Userstory's zijn niet al te specifiek en moeten passen op een post-it. Hiermee zegt de gebruiker welke functionaliteit hij of zij wenst in software.
+In de vorige challenge hebben we je precies verteld wat je moest programmeren. In deze challenge gaat het anders. Je krijgt een aantal userstory's van een klant. Een userstory is een korte beschrijving (story) van wat een gebruiker (user) wil. Een userstory bestaat uit enkele zinnen gewone spreektaal. Userstory's worden gebruikt binnen softwaredevelopment als een manier om de requirements te beschrijven. Hierin zegt men 'wie', 'wat', 'waarom' wil. Userstory's zijn niet al te specifiek en moeten passen op een post-it. Hiermee zegt de gebruiker welke functionaliteit hij of zij wenst in software.
 
 Het is aan jou om de userstory's te vertalen in functionaliteit en ontwerp.
 
@@ -44,7 +44,7 @@ Deze stappen zet je nu voor de tweede keer. Daarom is het belangrijk dat je in d
 
 Aan het eind van de challenge evalueer je of je planning realistisch was. Dit doe je ook voor de andere zes stappen.
 
-> :rocket: **TIP**: Je zult in deze Challenge documenten opleveren in het [Markdown](https://guides.github.com/features/mastering-markdown/) formaat. Dit is hetzelfde formaat als waar de uitleg bij de modules wordt geschreven. Check de link om te lezen hoe Markdown werkt en hoe je als je dat wilt de documenten anders kan vormgeven.
+> :rocket: **TIP**: Je zult in deze Challenge documenten opleveren in het [Markdown](https://guides.github.com/features/mastering-markdown/) formaat. Dit is hetzelfde formaat als waar de uitleg bij de modules wordt geschreven. Check de link om te lezen hoe Markdown werkt en hoe je, als je dat wilt, de documenten anders kan vormgeven.
 
 ### Eindresultaat
 

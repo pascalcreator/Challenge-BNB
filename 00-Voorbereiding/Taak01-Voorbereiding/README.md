@@ -2,9 +2,9 @@
 
 ## :rocket: 00 - Voorbereiding
 
-Als onderdeel van Taak02 zal je gevraagd worden om twee soorten ontwerp te maken: 1 boomstructuur en 1 wireframe.
+Als onderdeel van Taak02 zal je gevraagd worden om twee soorten ontwerpen te maken: een boomstructuur en een wireframe.
 
-Je kunt deze maken in VS Code door gebruik te maken van de [draw.io](https://github.com/hediet/vscode-drawio) extensie. Zo kun je blijven werken in de Challenge repository en kun je gemaakte ontwerpen gewoon committen & pushen naar Github.
+Je kunt deze maken in VS Code door gebruik te maken van de [draw.io](https://github.com/hediet/vscode-drawio) extensie. Zo kun je blijven werken in de Challenge-repository en kun je gemaakte ontwerpen gewoon committen & pushen naar Github.
 
 ### :hammer: Taak - Voorbereiding
 
