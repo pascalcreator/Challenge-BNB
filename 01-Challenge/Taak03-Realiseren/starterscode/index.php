@@ -150,7 +150,7 @@ if (is_object($db_conn->query($sql))) { //deze if-statement controleert of een s
     </footer>
     <script src="js/map_init.js"></script>
     <script>
-        // De verschillende markers moeten geplaatst worden. Check de longituted en latitudes in de database
+        // De verschillende markers moeten geplaatst worden. Vul de longitudes en latitudes uit de database hierin
         var coordinates = [
 
 

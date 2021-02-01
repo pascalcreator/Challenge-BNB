@@ -1,5 +1,6 @@
 
-//Deze JS code kun je laten staan :))
+// Je dient enkel regel 13 aan te passen, de rest van deze JS code kun je laten staan :))
+
 
 var mymap = L.map('mapid').setView([52.1283, 5.109], 8);
 
@@ -9,7 +10,7 @@ L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
     id: 'mapbox/streets-v11',
     tileSize: 512,
     zoomOffset: -1,
-    accessToken: ''
+    accessToken: '' //plak de token als string hier 
 }).addTo(mymap);
 
 // Voor een access token maak je account aan https://account.mapbox.com/access-tokens/
