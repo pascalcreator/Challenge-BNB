@@ -15,7 +15,7 @@
 | Planning    | Planning maken                                 | 00:30 u             | Bezig  |
 | Ontwerpen   | Mockup van BNB-site maken                      | 00:40 u             | bezig  |
 | ...         | Styling van elementen bepalen                  |                     |        |
-| Realiseren  | Bestanden aanmaken                             | 01:30 u             | bezig  |
+| Realiseren  | Bestanden aanmaken                             | 02:30 u             | bezig  |
 | ...         |                                                |                     |        |
 | Testen      | Applicatie testen                              | 00:30 u             | bezig  |
 | ...         |                                                |                     |        |
